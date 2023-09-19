@@ -1,0 +1,11 @@
+button {
+  border-style: none;
+  border-radius: 1rem;
+  color: white;
+  background-color: rgb(35, 35, 114);
+  padding: 1rem;
+  transition: transform 0.3s ease;
+}
+button:active {
+  transform: scale(.9);
+}
