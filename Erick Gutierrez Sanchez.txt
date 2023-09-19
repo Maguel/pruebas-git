@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+Modificacion del Archivo de Erick
+=======
 Ya llegue mama
 
 ya modifique el mio c:
+>>>>>>> d7a9e01b7b1e558177595e1dc3b76f8ceb3097b4
