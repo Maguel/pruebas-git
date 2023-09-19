@@ -2,6 +2,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 
 Miguel Ángel
 
+<<<<<<< HEAD
+Alonso
+
+Infiltrada jeje
+=======
 Santillán 
 
 Alonso
@@ -17,3 +22,4 @@ aber que haya conflictos
 ---------
 
 Update this file owowowo
+>>>>>>> 40cc54f5abce363a2e0333618c32b953f4cf2afc

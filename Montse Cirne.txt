@@ -2,5 +2,11 @@ HOLAAAAAAAAAAAAAAAA
 YA PUDEEE
 
 
+<<<<<<< HEAD
+Primer cambio en branch
+
+ESTE lo hize yo
+=======
 Ya lo modifique c:
 
+>>>>>>> 40cc54f5abce363a2e0333618c32b953f4cf2afc
